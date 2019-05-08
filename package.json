@@ -1,0 +1,18 @@
+{
+  "name": "durga_driving_school",
+  "version": "1.0.0",
+  "description": "Final year project for Web API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ujjwal Sir",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.3.1",
+    "express": "^4.16.4",
+    "hbs": "^4.0.4",
+    "jquery": "^3.4.1"
+  }
+}
